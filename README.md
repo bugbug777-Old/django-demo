@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-python3 -m pip isntall virtualenv
+python3 -m pip install virtualenv
 virtualenv .venv
 . ./.venv/bin/activate
 ```
